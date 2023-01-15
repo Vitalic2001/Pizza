@@ -1,0 +1,16 @@
+E:\myPrograms\ProgOranazer\bin\Debug\ProgOranazer.exe.config
+E:\myPrograms\ProgOranazer\bin\Debug\ProgOranazer.exe
+E:\myPrograms\ProgOranazer\bin\Debug\ProgOranazer.pdb
+E:\myPrograms\ProgOranazer\obj\Debug\ProgOranazer.Form1.resources
+E:\myPrograms\ProgOranazer\obj\Debug\ProgOranazer.Properties.Resources.resources
+E:\myPrograms\ProgOranazer\obj\Debug\ProgOranazer.Timerpg.resources
+E:\myPrograms\ProgOranazer\obj\Debug\ProgOranazer.csproj.GenerateResource.cache
+E:\myPrograms\ProgOranazer\obj\Debug\ProgOranazer.csproj.CoreCompileInputs.cache
+E:\myPrograms\ProgOranazer\obj\Debug\ProgOranazer.exe
+E:\myPrograms\ProgOranazer\obj\Debug\ProgOranazer.pdb
+E:\myPrograms\ProgOranazer\obj\Debug\ProgOranazer.zametki22.resources
+E:\myPrograms\ProgOranazer\obj\Debug\ProgOranazer.Kalendar.resources
+E:\myPrograms\ProgOranazer\obj\Debug\ProgOranazer.Konvert.resources
+E:\myPrograms\ProgOranazer\obj\Debug\ProgOranazer.csproj.AssemblyReference.cache
+E:\myPrograms\ProgOranazer\obj\Debug\ProgOranazer.csproj.SuggestedBindingRedirects.cache
+E:\myPrograms\ProgOranazer\obj\Debug\ProgOranazer.Form2.resources
